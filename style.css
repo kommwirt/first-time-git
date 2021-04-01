@@ -1,0 +1,27 @@
+html {
+  color: #fff;
+}
+body {
+  margin: 0;
+}
+section {
+  width: 43.5cm;
+}
+p {
+  font-size: 7mm;
+}
+h2 {
+  font-size: 15mm;
+  text-align: center;
+  background: #4c4c4c;
+  padding: 6mm;
+  text-shadow: #000 1.5mm 1.5mm;
+  font-family: Helvetica;
+}
+article {
+  background: #999999;
+  margin: 9mm 9mm;
+  padding: 9mm 0 3cm 1.5cm;
+  width: 42cm;
+  height: 13, 5 cm;
+}

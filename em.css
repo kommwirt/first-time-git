@@ -1,0 +1,33 @@
+html {
+  font-size: 16px;
+}
+section {
+  font-size: 2rem;
+}
+li {
+  font-size: 0.8em;
+  line-height: 1.5em;
+}
+ul {
+  padding-inline-start: 1.2em;
+  list-style: none;
+}
+li > ul > li > ul {
+  list-style-position: outside;
+  padding-inline-start: 0;
+}
+li[data-sort="dog"]:before {
+  content: "🐶";
+}
+li[data-sort="cats"]:before {
+  content: "🐱";
+}
+li[data-sort="parrots"]:before {
+  content: "🦜";
+}
+li[data-sort="snakes"]:before {
+  content: "🐍";
+}
+li[data-sort="lizzards"]:before {
+  content: "🦎";
+}

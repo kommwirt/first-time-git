@@ -1,0 +1,26 @@
+html {
+  font-size: 10px;
+}
+body {
+  margin: 0 auto;
+  background-image: url(img/units-bg.jpg);
+  height: 100vh;
+  padding: 2vw;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+h1 {
+  font-size: 3rem;
+  background-color: rgba(57, 27, 139, 0.671);
+  color: aliceblue;
+  text-align: center;
+  padding: 2vh 4vw;
+  margin: 0 auto;
+}
+article {
+  font-size: 1.6em;
+  background-color: rgba(245, 245, 220, 0.562);
+  text-align: center;
+  padding: 4vh 4vw;
+  margin: 2% auto;
+}
